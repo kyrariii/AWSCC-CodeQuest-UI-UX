@@ -2,16 +2,18 @@
 ## Hello there, my fellow Alfbuddy! 💖
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+
  ______        _     ____  ____    __    <br/>
 |_   _ `.     / \   |_  _||_  _|  /  |   <br/>
   | | `. \   / _ \    \ \  / /    `| |   <br/>
   | |  | |  / ___ \    \ \/ /      | |   <br/>
  _| |_.' /_/ /   \ \_  _|  |_     _| |_  <br/>
 |______.'|____| |____||______|   |_____| <br/>
+                                         <br/>
          
 ### ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ Instructions 
 
-Visit both Shopee and Lazada's web and mobile applications. Explore their homepages, analyze interface designs, and document your experiences.<br/><br/>
+Visit both Shopee and Lazada's web and mobile applications. Explore their homepages, analyze interface designs, and document your experiences.<br/>
 
 #### 1. UI and UX analyses for Day 1
 
