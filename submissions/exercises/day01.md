@@ -19,7 +19,7 @@ Visit both Shopee and Lazada's web and mobile applications. Explore their homepa
 
 &nbsp;&nbsp;&nbsp;&nbsp;**꒰ ♡ ꒱ User-Experience Analysis:**<br/>
 
-☁︎   **Which website is easier to find the product you are looking for?**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;☁︎   **Which website is easier to find the product you are looking for?**<br/>
     **Answer:** As a frequent user of both applications, I find that finding products is easier with Shopee because it displays more relevant products than Lazada. The search and recommendation algorithms on Lazada may not be as great as Shopee's. Lazada makes it more difficult to find a specific product.
 
 ☁︎   **Identify any distractions or unnecessary elements that could potentially confuse users.**<br/>
