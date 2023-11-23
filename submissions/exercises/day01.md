@@ -1,8 +1,8 @@
 ## Hello there, my fellow Alfbuddy! 💖
 
-┳┓┏┓┓┏    ┓ <br/>
-┃┃┣┫┗┫    ┃ <br/>
-┻┛┛┗┗┛    ┻ <br/>
+┳┓┏┓┓┏ &nbsp; ┓ <br/>
+┃┃┣┫┗┫ &nbsp; ┃ <br/>
+┻┛┛┗┗┛ &nbsp; ┻ <br/>
          
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
@@ -34,7 +34,7 @@ Visit both Shopee and Lazada's web and mobile applications. Explore their homepa
 ☁︎   **Which do you think is better when it comes to the visual aspect of the website?**<br/>
     **Answer:** I prefer Shopee's visual over Lazada's, particularly their colors; I believe Shopee's choice of orange as their primary color makes the website more appealing to users, which is the opposite for Lazada. As I previously stated, Shopee also did a better job of designing their interface because it is very clean, and you will feel at ease using it because it is not overwhelming. This is an area where I believe Lazada can improve.
 
-#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
+#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback. 🚀✨
 
 ![Alt text](image.png)
 
