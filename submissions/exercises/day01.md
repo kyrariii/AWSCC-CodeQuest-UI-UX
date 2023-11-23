@@ -1,16 +1,16 @@
 ## Hello there, my fellow Alfbuddy! 💖
 
-┳┓┏┓┓┏  ┓ <br/>
-┃┃┣┫┗┫  ┃ <br/>
-┻┛┛┗┗┛  ┻ <br/>
+┳┓┏┓┓┏    ┓ <br/>
+┃┃┣┫┗┫    ┃ <br/>
+┻┛┛┗┗┛    ┻ <br/>
          
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-### ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ Instructions 
+### Instructions ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
 Visit both Shopee and Lazada's web and mobile applications. Explore their homepages, analyze interface designs, and document your experiences.<br/>
 
-#### 1. UI and UX analyses for Day 1 <br/>
+#### 1. UI and UX analyses for Day 1 🚀✨<br/>
 
 **꒰ ♡ ꒱ User-Experience Analysis:**<br/>
 
@@ -32,9 +32,13 @@ Visit both Shopee and Lazada's web and mobile applications. Explore their homepa
     **Answer:** Both applications demonstrate responsiveness because they can adapt to the device in use, responding to the user's behavior and environment based on screen size, platform, and orientation. They can be used on a mobile phone or on a computer, no matter what their size is.
     
 ☁︎   **Which do you think is better when it comes to the visual aspect of the website?**<br/>
-    **Answer:** 
+    **Answer:** I prefer Shopee's visual over Lazada's, particularly their colors; I believe Shopee's choice of orange as their primary color makes the website more appealing to users, which is the opposite for Lazada. As I previously stated, Shopee also did a better job of designing their interface because it is very clean, and you will feel at ease using it because it is not overwhelming. This is an area where I believe Lazada can improve.
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
+
+![Alt text](image.png)
+
+☁︎ I think the game is really fun in itself; it's quite challenging, and I believe it can help a web designer's eye in pinning down even the smallest details. Personally, adding music or other features will almost certainly make it more engaging.
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
