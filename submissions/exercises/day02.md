@@ -1,13 +1,14 @@
-## Hello there, my fellow Alfbuddy! 💖
+# ⋆⭒˚｡⋆ DAY 2 OF UI/UX ⋆⭒˚｡⋆
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
-
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
-- Link to your own file of **"Figma Basics Tutorial"**
-- Brief explanation of your experience or reflection
+**꒰ ♡ ꒱ Link to your own file of ***"Figma Basics Tutorial"***
+☁︎ https://www.figma.com/file/3rZSKzQW8t6ejpovD1YuTi/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5-2085&mode=design&t=W1D2z2PD4FxAVu9P-0
 
-Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
+**꒰ ♡ ꒱ Brief explanation of your experience or reflection**
+☁︎ Figma is definitely intimidating on the first try, but I believe with enough effort and exploration, I will be able to master it. I have observed that it has a lot of features to offer, which allows for more design possibilities.
 
-<!-- You may now delete and modify the content of this file -->
+![Alt text](image-1.png)
+
+
