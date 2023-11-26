@@ -1,6 +1,7 @@
 ## Hello there, my fellow Alfbuddy! 💖
-sadadsdaaaaaaaaaaaaaaaaa
-###### DAY 1
+
+# DAY 1 OF UI/UX
+
 ┳┓┏┓┓┏ &nbsp; ┓ <br/>
 ┃┃┣┫┗┫ &nbsp; ┃ <br/>
 ┻┛┛┗┗┛ &nbsp; ┻ <br/>
