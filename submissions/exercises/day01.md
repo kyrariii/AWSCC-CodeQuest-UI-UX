@@ -1,10 +1,5 @@
+# ⋆⭒˚｡⋆ DAY 1 OF UI/UX ⋆⭒˚｡⋆
 ## Hello there, my fellow Alfbuddy! 💖
-
-# DAY 1 OF UI/UX
-
-┳┓┏┓┓┏ &nbsp; ┓ <br/>
-┃┃┣┫┗┫ &nbsp; ┃ <br/>
-┻┛┛┗┗┛ &nbsp; ┻ <br/>
          
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
