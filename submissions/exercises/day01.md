@@ -1,6 +1,5 @@
 # ⋆⭒˚｡⋆ DAY 1 OF UI/UX ⋆⭒˚｡⋆
-## Hello there, my fellow Alfbuddy! 💖
-         
+
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
 ### Instructions ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
@@ -37,6 +36,5 @@ Visit both Shopee and Lazada's web and mobile applications. Explore their homepa
 
 ☁︎ I think the game is really fun in itself; it's quite challenging, and I believe it can help a web designer's eye in pinning down even the smallest details. Personally, adding music or other features will almost certainly make it more engaging.
 
-<br/>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
 
