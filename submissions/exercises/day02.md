@@ -10,10 +10,12 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 **꒰ ♡ ꒱ Brief explanation of your experience or reflection**
 <br/> ☁︎ Figma is definitely intimidating on the first try, but I believe with enough effort and exploration, I will be able to master it. I have observed that it has a lot of features to offer, which allows for more design possibilities.
 
-<div align = "center"> ### FRAMES
+<div align = "center">
 
+### FRAMES
 ![Frames](image-2.png)
 
+### SHAPES
 ![Shapes](image-3.png)
 
 
