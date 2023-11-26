@@ -38,3 +38,6 @@ https://www.figma.com/file/3rZSKzQW8t6ejpovD1YuTi/AWSCC-Figma-Workshop%3A-Basics
 
 ![Sharing](image-9.png)
 
+## FINAL ACTIVITY
+
+![Final Activity](image-10.png)
