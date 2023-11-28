@@ -1,4 +1,4 @@
-# ⋆⭒˚｡⋆ DAY 2 OF UI/UX ⋆⭒˚｡⋆
+# ⋆⭒˚｡⋆ DAY 2: Figma Basics ⋆⭒˚｡⋆
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
