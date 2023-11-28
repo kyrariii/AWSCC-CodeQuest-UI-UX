@@ -33,9 +33,6 @@ Visit both Shopee and Lazada's web and mobile applications. Explore their homepa
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback. 🚀✨
 
-![Alt text](image.png)
-
 ☁︎ I think the game is really fun in itself; it's quite challenging, and I believe it can help a web designer's eye in pinning down even the smallest details. Personally, adding music or other features will almost certainly make it more engaging.
 
-
-
+![It's Centred That](image.png)
