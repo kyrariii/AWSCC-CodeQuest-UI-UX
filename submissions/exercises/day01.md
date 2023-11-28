@@ -1,4 +1,5 @@
 # ⋆⭒˚｡⋆ DAY 1 OF UI/UX ⋆⭒˚｡⋆
+### Introduction to UI/UX Design
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
