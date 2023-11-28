@@ -12,32 +12,32 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
 <div align = "center">
 
-### FRAMES
+### ⋆⭒˚｡⋆ FRAMES ⋆⭒˚｡⋆
 ![Frames](image-2.png)
 
-### SHAPES
+### ⋆⭒˚｡⋆ SHAPES ⋆⭒˚｡⋆
 ![Shapes](image-3.png)
 
-### TEXT
+### ⋆⭒˚｡⋆ TEXT ⋆⭒˚｡⋆
 ![Text](image-4.png)
 
-### IMAGES
+### ⋆⭒˚｡⋆ IMAGES ⋆⭒˚｡⋆
 ![Images](image-5.png)
 
-### EXPORTING IMAGES
+### ⋆⭒˚｡⋆ EXPORTING IMAGES ⋆⭒˚｡⋆
 ![Exporting Images](image-6.png)
 
-### COMPONENTS
+### ⋆⭒˚｡⋆ COMPONENTS ⋆⭒˚｡⋆
 ![Components](image-7.png)
 
-### COMMENTING
+### ⋆⭒˚｡⋆ COMMENTING ⋆⭒˚｡⋆
 ![Commenting](image-8.png)
 
-### SHARING
+### ⋆⭒˚｡⋆ SHARING ⋆⭒˚｡⋆
 https://www.figma.com/file/3rZSKzQW8t6ejpovD1YuTi/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=213%3A52&mode=design&t=MaLE2GNMYOnhw0oq-1
 
 ![Sharing](image-9.png)
 
-## FINAL ACTIVITY
+## ⋆⭒˚｡⋆ FINAL ACTIVITY ⋆⭒˚｡⋆
 
 ![Final Activity](image-10.png)
